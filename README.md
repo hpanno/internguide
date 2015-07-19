@@ -1,6 +1,15 @@
 # InternGuide
 This guide was created to introduce new interns to potential tools, skills and workflows which our may be required in our office.
 
+# Categories
+## Cartography
+## Code
+## Fire
+## Geoprocessing
+## Hardware
+## Office
+## OSM
+
 #### *draft/brain-dump*
 'x-drive'/file structure/naming convention    
 QGIS  

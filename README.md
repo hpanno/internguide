@@ -1,57 +1,66 @@
-# InternGuide
-This guide was created to introduce new interns to potential tools, skills and workflows which our may be required in our office.
+# intern guide
+This guide was created to introduce new interns to potential tools, skills and workflows which our may be required in our office.  
 
 # Categories
 ## Cartography
-## Code
-## Fire
-## Geoprocessing
-## Hardware
-## Office
-## OSM
+Mapbox  
+ANSI  
+TileMill/Mapbox Studio  
+CartoDB  
 
-#### *draft/brain-dump*
-'x-drive'/file structure/naming convention    
-QGIS  
+## Code
 GitHub  
-OSM  
-GPS  
+Codecademy  
+Leaflet  
+
+## Fire
+FIMT  
+
+## Geoprocessing/Data
+QGIS  
+geoportals/data acquisition  
+GeoJSON  
+Reg. Ex.  
+geojson.io  
+
+## Hardware/Software/Apps
+### Apps
+Fulcrum  
+
+### Software
+PDF Maps  
 BeyondCompare  
+GPS Babel  
+Clover  
+GIMP/Inkscape  
+
+### Hardware
+GPS  
+tablets/devices  
+SatCom + kit  
+
+## Office
+'x-drive'/file structure/naming convention  
 timesheets/copy machine  
 plotter/printer  
-tablets/devices  
-PDF Maps  
-FIMT  
-Codecademy  
 passwords  
 Dropbox  
 calendar/scheduling  
-Mapbox  
-GeoJSON  
-GPS Babel  
-Clover  
-TIGER  
-Reg. Ex.  
-overpass-turbo  
 vehicles/fueling  
-keyboard shortcuts  
-ANSI  
-SBTC opening/alarm/closing/storage room   
+SBTC opening/alarm/closing/storage room  
 CalMAPPER  
 HipChat/Slack  
-Fulcrum  
 Div 6 apparel  
-SatCom + kit  
 fuel moistures  
-CartoDB  
-TileMill/Mapbox Studio  
-GIMP/Inkscape  
+
+## OSM
+OSM  
+TIGER  
+overpass-turbo  
+Editors  
+Pushpin  
 Mapillary  
 MAPS.ME  
-Pushpin  
-Leaflet  
-geojson.io  
-geoportals/data acquisition  
 
 #### *also adding content from an old/now-deleted repo* (`InternTraining`)*, probable duplicates from above*.
 

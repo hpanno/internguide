@@ -3,38 +3,65 @@ This guide was created to introduce new interns to potential tools, skills and w
 
 # Categories
 ## Cartography
+**map school** http://macwright.org/mapschool/ _a free open introduction to geo_  
+**GIS-Advice** _A youngster asked for advice on getting into GIS/imagery, and this is what I said:_ https://gist.github.com/celoyd/7966247  
+**geo-how-to** https://github.com/nvkelso/geo-how-to/wiki _tips and tricks here are oriented to BYOD (bring your down data) mapping_  
+**caltopo**  https://caltopo.com/  
+**sartopo**  https://sartopo.com/  
 Mapbox  
-ANSI  
 TileMill/Mapbox Studio  
-CartoDB  
+CartoDB _also see Data_  
+**CartoDB tutorials** http://developers.cartodb.com/tutorials.html  
+ArcMap DDV CA Highway shields  
+ANSI  
 
 ## Code
-GitHub  
-Codecademy  
-Leaflet  
+#### GitHub  
+
+**GitHub**: create an account! https://github.com/  
+**GitHub Guides YouTube Channel** http://www.youtube.com/GitHubGuides
+**Git Basics** http://www.youtube.com/watch?v=8oRjP8yj2Wo  
+
+#### Coding
+**Codecademy** http://www.codecademy.com/ _focus on HTML, JavaScript, Python_    
+**Learn Code The Hard Way** http://learncodethehardway.org/  
+
+#### Web Mapping
+
+**Leaflet** http://leafletjs.com/  
 
 ## Fire
 FIMT  
 
 ## Geoprocessing/Data
-QGIS  
+#### Data
 geoportals/data acquisition  
-GeoJSON  
 Reg. Ex.  
-geojson.io  
+**geojson.io** https://github.com/mapbox/geojson.io _fast, simple map creation_ 
+http://geojson.io/  
+#### GDAL
+**gdal-cheat-sheet** https://github.com/dwtkns/gdal-cheat-sheet _Cheat sheet for GDAL/OGR command-line tools_
+#### PostGIS
+**postgis-intro** http://workshops.boundlessgeo.com/postgis-intro/ _Introduction to PostGIS_  
+#### Python
+**Fiona User Manual** http://toblerity.org/fiona/manual.html _Fiona provides uncomplicated Python interfaces to functions in OGR, the best open source C/C++ library for reading and writing geographic vector data._  
+#### QGIS
+**Official QGIS Documentation** http://www.qgis.org/en/docs/  
+**CGA Harvard University QGIS Workshop** http://maps.cga.harvard.edu/qgis/ _This introductory workshop will cover basic methods listed below. No previous knowledge of GIS or statistics is required._  
 
 ## Hardware/Software/Apps
-### Apps
+#### Apps
 Fulcrum  
 
-### Software
-PDF Maps  
-BeyondCompare  
-GPS Babel  
-Clover  
-GIMP/Inkscape  
-
-### Hardware
+#### Software
+**PDF Maps** http://www.avenza.com/pdf-maps  
+**BeyondCompare** http://www.scootersoftware.com/ _utility that combines directory compare and file compare functions_  
+**GPS Babel** http://www.gpsbabel.org/ _converts waypoints, tracks, and routes between popular GPS receivers_  
+**Clover** http://ejie.me/ _an extension of the Windows Explorer, to add multi-tab functionality similar to Google Chrome_  
+**GIMP** http://www.gimp.org/ _GNU Image Manipulation Program_  
+**Inkscape** https://inkscape.org/en/ _vector graphics editor_ 
+ 
+#### Hardware
 GPS  
 tablets/devices  
 SatCom + kit  
@@ -54,7 +81,7 @@ Div 6 apparel
 fuel moistures  
 
 ## OSM
-OSM  
+**welcome-osm** http://osmlab.github.io/welcome-osm/ _Welcome to OpenStreetMap_  
 TIGER  
 overpass-turbo  
 Editors  
@@ -62,44 +89,3 @@ Pushpin
 Mapillary  
 MAPS.ME  
 
-#### *also adding content from an old/now-deleted repo* (`InternTraining`)*, probable duplicates from above*.
-
-##General  
-
-**GitHub** create an account! https://github.com/  
-
-**GitHub Guides YouTube Channel** http://www.youtube.com/GitHubGuides
-
-**Git Basics** http://www.youtube.com/watch?v=8oRjP8yj2Wo
-
-**Codecademy** http://www.codecademy.com/ _focus on HTML, JavaScript, Python_
-
-**map school** http://macwright.org/mapschool/ _a free open introduction to geo_  
-
-**geo-how-to** https://github.com/nvkelso/geo-how-to/wiki _tips and tricks here are oriented to BYOD (bring your down data) mapping_
-
-**geojson.io** https://github.com/mapbox/geojson.io _fast, simple map creation_ 
-http://geojson.io/
-
-**caltopo**  https://caltopo.com/  
-
-**sartopo**  https://sartopo.com/  
-
-**GIS-Advice** _A youngster asked for advice on getting into GIS/imagery, and this is what I said:_ https://gist.github.com/celoyd/7966247
-
-##GDAL
-**gdal-cheat-sheet** https://github.com/dwtkns/gdal-cheat-sheet _Cheat sheet for GDAL/OGR command-line tools_
-
-##OpenStreetMap  
-**welcome-osm** http://osmlab.github.io/welcome-osm/ _Welcome to OpenStreetMap_  
-
-##PostGIS
-**postgis-intro** http://workshops.boundlessgeo.com/postgis-intro/ _Introduction to PostGIS_  
-**CartoDB tutorials** http://developers.cartodb.com/tutorials.html 
-
-##Python
-**Fiona User Manual** http://toblerity.org/fiona/manual.html _Fiona provides uncomplicated Python interfaces to functions in OGR, the best open source C/C++ library for reading and writing geographic vector data._  
-
-##QGIS
-**Official QGIS Documentation** http://www.qgis.org/en/docs/  
-**CGA Harvard University QGIS Workshop** http://maps.cga.harvard.edu/qgis/ _This introductory workshop will cover basic methods listed below. No previous knowledge of GIS or statistics is required._  

@@ -90,7 +90,7 @@ Editors
 Pushpin  
 Mapillary  
 MAPS.ME  
-To track uploaded OpenStreetMap changesets in the SLO County bbox, you can add this Chrome Extension to your Chrome Browser https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp  
-This is the RSS feed URL you want to add http://simon04.dev.openstreetmap.org/whodidit/scripts/rss.php?bbox=-121.34792,34.89752,-119.47262,35.79522 you can also just bookmark that link, if you don't want to do the Chrome thing.  
-Notes RSS for San Luis Obispo, CA area http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-121.34792,34.89752,-119.47262,35.79522  
+**Tracking OSM changesets** https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp _you can add this Chrome Extension to your Chrome Browser_  
+**OSM Changesets RSS feed** http://simon04.dev.openstreetmap.org/whodidit/scripts/rss.php?bbox=-121.34792,34.89752,-119.47262,35.79522  
+**OSM Notes RSS http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-121.34792,34.89752,-119.47262,35.79522  
 

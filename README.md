@@ -2,6 +2,14 @@
 This guide was created to introduce new interns to potential tools, skills and workflows which our may be required in our office.  
 
 # Categories
+* [Cartography](https://github.com/SLUGIS/internguide/blob/master/README.md#cartography)
+* [Code](https://github.com/SLUGIS/internguide/blob/master/README.md#code)
+* [Fire](https://github.com/SLUGIS/internguide/blob/master/README.md#fire)
+* [Geoprocessing/Data](https://github.com/SLUGIS/internguide/blob/master/README.md#geoprocessingdata)
+* [Hardware/Software/Apps](https://github.com/SLUGIS/internguide/blob/master/README.md#hardwaresoftwareapps)
+* [Office](https://github.com/SLUGIS/internguide/blob/master/README.md#office)
+* [OpenStreetMap](https://github.com/SLUGIS/internguide/blob/master/README.md#osm)
+
 ## Cartography
 **map school** http://macwright.org/mapschool/ _a free open introduction to geo_  
 **GIS-Advice** _A youngster asked for advice on getting into GIS/imagery, and this is what I said:_ https://gist.github.com/celoyd/7966247  

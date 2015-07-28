@@ -42,6 +42,7 @@ color advice for cartography http://colorbrewer2.org/
 
 ## Fire
 FIMT  
+**NIFC FTP** http://ftp.nifc.gov/incident_specific_data/ _access to incident data_
 
 ## Geoprocessing/Data
 #### Data

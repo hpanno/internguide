@@ -14,6 +14,8 @@ CartoDB _also see Data_
 **CartoDB tutorials** http://developers.cartodb.com/tutorials.html  
 ArcMap DDV CA Highway shields  
 ANSI  
+FONT LIBRARY AN OPEN SOURCE PROJECT TO TAG AND ORGANIZE GOOGLE FONTS http://katydecorah.com/font-library/  
+color advice for cartography http://colorbrewer2.org/  
 
 ## Code
 #### GitHub  

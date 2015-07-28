@@ -90,4 +90,5 @@ Editors
 Pushpin  
 Mapillary  
 MAPS.ME  
+Notes RSS for San Luis Obispo, CA area http://www.openstreetmap.org/api/0.6/notes/feed?bbox=-121.34792,34.89752,-119.47262,35.79522  
 

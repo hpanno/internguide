@@ -41,8 +41,9 @@ color advice for cartography http://colorbrewer2.org/
 **Leaflet** http://leafletjs.com/  
 
 ## Fire
-FIMT  
+**Fire Incident Mapping Tools (FIMT)** http://gis.nwcg.gov/links_tools.html _an extension for ArcGIS ArcMap_  
 **NIFC FTP** http://ftp.nifc.gov/incident_specific_data/ _access to incident data_
+**Fire Mapping 2007** https://www.youtube.com/watch?v=M730zJ8HZ5g
 
 ## Geoprocessing/Data
 #### Data

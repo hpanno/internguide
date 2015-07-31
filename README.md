@@ -29,7 +29,7 @@ color advice for cartography http://colorbrewer2.org/
 #### GitHub  
 
 **GitHub**: create an account! https://github.com/  
-**GitHub Guides YouTube Channel** http://www.youtube.com/GitHubGuides
+**GitHub Guides YouTube Channel** http://www.youtube.com/GitHubGuides  
 **Git Basics** http://www.youtube.com/watch?v=8oRjP8yj2Wo  
 
 #### Coding

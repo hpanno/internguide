@@ -42,8 +42,8 @@ color advice for cartography http://colorbrewer2.org/
 
 ## Fire
 **Fire Incident Mapping Tools (FIMT)** http://gis.nwcg.gov/links_tools.html _an extension for ArcGIS ArcMap_  
-**NIFC FTP** http://ftp.nifc.gov/incident_specific_data/ _access to incident data_
-**Fire Mapping 2007** https://www.youtube.com/watch?v=M730zJ8HZ5g
+**NIFC FTP** http://ftp.nifc.gov/incident_specific_data/ _access to incident data_  
+**Fire Mapping 2007** https://www.youtube.com/watch?v=M730zJ8HZ5g  
 
 ## Geoprocessing/Data
 #### Data
@@ -79,6 +79,10 @@ tablets/devices
 SatCom + kit  
 
 ## Office
+### Music
+* http://session.wefunkradio.com/  
+* http://www.discobreak.com/  
+* http://kexp.org/  
 'x-drive'/file structure/naming convention  
 timesheets/copy machine  
 plotter/printer  

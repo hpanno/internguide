@@ -48,7 +48,7 @@ color advice for cartography http://colorbrewer2.org/
 ## Geoprocessing/Data
 #### Data
 **Bounding Box Tool** http://boundingbox.klokantech.com/ _Bounding Box Tool for Metadata Enrichment_  
-**bbox finder** http://bboxfinder.com/ _bbox finder_
+**bbox finder** http://bboxfinder.com/ _bbox finder_  
 geoportals/data acquisition  
 Reg. Ex.  
 **geojson.io** https://github.com/mapbox/geojson.io _fast, simple map creation_ 

@@ -90,11 +90,11 @@ This guide was created to introduce new interns to potential tools, skills and w
 
 ## Hardware/Software/Apps
 #### Apps
-Fulcrum
-GPS Tracks _Offline Data Collection_
-Motion X GPS _Offline Data Collection_
-Back County Navigator _Offline Data Collection_
-Maps.Me
+**Fulcrum**
+**GPS Tracks** _Offline Data Collection_
+**Motion X GPS** _Offline Data Collection_
+**Back County Navigator** _Offline Data Collection_
+**Maps.Me**
 
 #### Software
 **PDF Maps** http://www.avenza.com/pdf-maps _Offline Data Collection_

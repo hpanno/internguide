@@ -90,10 +90,14 @@ This guide was created to introduce new interns to potential tools, skills and w
 
 ## Hardware/Software/Apps
 #### Apps
-Fulcrum  
+Fulcrum
+GPS Tracks _Offline Data Collection_
+Motion X GPS _Offline Data Collection_
+Back County Navigator _Offline Data Collection_
+Maps.Me
 
 #### Software
-**PDF Maps** http://www.avenza.com/pdf-maps  
+**PDF Maps** http://www.avenza.com/pdf-maps _Offline Data Collection_
 **BeyondCompare** http://www.scootersoftware.com/ _utility that combines directory compare and file compare functions_  
 **GPS Babel** http://www.gpsbabel.org/ _converts waypoints, tracks, and routes between popular GPS receivers_  
 **Clover** http://ejie.me/ _an extension of the Windows Explorer, to add multi-tab functionality similar to Google Chrome_  

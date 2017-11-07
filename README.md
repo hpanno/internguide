@@ -81,8 +81,11 @@ This guide was created to introduce new interns to potential tools, skills and w
 #### Google Earth
 **USGS Topo Map Overlays** http://www.gelib.com/usgs-topographic-maps-2.htm  
 **Active Fire Data** https://earthdata.nasa.gov/earth-observation-data/near-real-time/firms/active-fire-data
+
 **Wildland Fire Assessment System** http://www.wfas.net/index.php/google-earth-map-data-weather-100
+
 **Importing GPS data to Google Earth** https://www.google.com/earth/outreach/learn/importing-global-positioning-systems-gps-data-in-google-earth/
+
 **NOAA Storm Prediction Center - Active Watches** http://www.spc.noaa.gov/gis/
 #### PostGIS
 **postgis-intro** http://workshops.boundlessgeo.com/postgis-intro/ _Introduction to PostGIS_  
